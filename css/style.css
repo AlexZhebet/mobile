@@ -37,6 +37,10 @@
   display: flex;
   align-items: center;
 }
+.nav__toggler {
+  background: none;
+  border: 0;
+}
 
 .nav__list {
   display: none;
