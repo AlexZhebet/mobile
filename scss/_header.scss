@@ -9,7 +9,11 @@
 .nav {
     display: flex;
     align-items: center;
-
+    
+     &__toggler {
+        background: none;
+        border: 0;
+    }
     &__burger_icon {
         display: none;
     }
